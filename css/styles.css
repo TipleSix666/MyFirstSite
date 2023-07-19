@@ -1,0 +1,24 @@
+div{
+    
+}
+
+#blueB{
+    height: 50vh;
+    width: 100%;
+    background-color: blue;
+}
+
+#grayB{
+    height: 50vh;
+    width: 100%;
+    background-color: gray;
+}
+
+.contentContainer{
+    width: 60%;
+    height: 50vh;
+    background: white;
+    position: absolute;
+    top: 250px;
+    left: 350px;
+}
